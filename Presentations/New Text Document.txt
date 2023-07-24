@@ -1,0 +1,13 @@
+
+lexical
+adjective
+relating to the words or vocabulary of a language.
+"lexical analysis"
+
+
+semantic
+सिˈमैन्‌टिक्‌
+adjective
+connected with the meaning of words and sentences
+
+semantic similarity and lexical similarity
